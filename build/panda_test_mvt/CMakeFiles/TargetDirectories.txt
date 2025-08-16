@@ -1,0 +1,9 @@
+/home/kol/Documents/ros2/Control/panda/build/panda_test_mvt/CMakeFiles/uninstall.dir
+/home/kol/Documents/ros2/Control/panda/build/panda_test_mvt/CMakeFiles/panda_test_mvt_uninstall.dir
+/home/kol/Documents/ros2/Control/panda/build/panda_test_mvt/CMakeFiles/test.dir
+/home/kol/Documents/ros2/Control/panda/build/panda_test_mvt/CMakeFiles/edit_cache.dir
+/home/kol/Documents/ros2/Control/panda/build/panda_test_mvt/CMakeFiles/rebuild_cache.dir
+/home/kol/Documents/ros2/Control/panda/build/panda_test_mvt/CMakeFiles/list_install_components.dir
+/home/kol/Documents/ros2/Control/panda/build/panda_test_mvt/CMakeFiles/install.dir
+/home/kol/Documents/ros2/Control/panda/build/panda_test_mvt/CMakeFiles/install/local.dir
+/home/kol/Documents/ros2/Control/panda/build/panda_test_mvt/CMakeFiles/install/strip.dir

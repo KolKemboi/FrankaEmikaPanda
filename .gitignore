@@ -1,0 +1,30 @@
+# ROS 2 colcon build artifacts
+build/
+install/
+log/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# C++ build artifacts
+*.o
+*.so
+*.a
+*.out
+
+# IDE / editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*.user
+*.DS_Store
+
+# Colcon test results
+*.test_results/
+
+# ROS 2 local setup scripts (if generated outside of install/)
+local_setup.*

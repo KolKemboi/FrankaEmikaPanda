@@ -1,0 +1,60 @@
+[0.018s] Invoking command in '/home/kol/Documents/ros2/Control/panda/build/panda_test_mvt': CMAKE_PREFIX_PATH=/home/kol/Documents/ros2/Control/panda/install/panda_description:/home/kol/Documents/ros2/Control/panda/install/panda_moveit_config:/opt/ros/humble /usr/bin/cmake /home/kol/Documents/ros2/Control/panda/src/panda_test_mvt -DCMAKE_INSTALL_PREFIX=/home/kol/Documents/ros2/Control/panda/install/panda_test_mvt
+[0.100s] -- The C compiler identification is GNU 11.4.0
+[0.184s] -- The CXX compiler identification is GNU 11.4.0
+[0.196s] -- Detecting C compiler ABI info
+[0.281s] -- Detecting C compiler ABI info - done
+[0.292s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.292s] -- Detecting C compile features
+[0.293s] -- Detecting C compile features - done
+[0.296s] -- Detecting CXX compiler ABI info
+[0.399s] -- Detecting CXX compiler ABI info - done
+[0.410s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.411s] -- Detecting CXX compile features
+[0.411s] -- Detecting CXX compile features - done
+[0.415s] -- Found ament_cmake: 1.3.12 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.665s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.901s] -- Configuring done
+[0.904s] -- Generating done
+[0.907s] -- Build files have been written to: /home/kol/Documents/ros2/Control/panda/build/panda_test_mvt
+[0.913s] Invoked command in '/home/kol/Documents/ros2/Control/panda/build/panda_test_mvt' returned '0': CMAKE_PREFIX_PATH=/home/kol/Documents/ros2/Control/panda/install/panda_description:/home/kol/Documents/ros2/Control/panda/install/panda_moveit_config:/opt/ros/humble /usr/bin/cmake /home/kol/Documents/ros2/Control/panda/src/panda_test_mvt -DCMAKE_INSTALL_PREFIX=/home/kol/Documents/ros2/Control/panda/install/panda_test_mvt
+[0.914s] Invoking command in '/home/kol/Documents/ros2/Control/panda/build/panda_test_mvt': CMAKE_PREFIX_PATH=/home/kol/Documents/ros2/Control/panda/install/panda_description:/home/kol/Documents/ros2/Control/panda/install/panda_moveit_config:/opt/ros/humble /usr/bin/cmake --build /home/kol/Documents/ros2/Control/panda/build/panda_test_mvt -- -j4 -l4
+[0.972s] Invoked command in '/home/kol/Documents/ros2/Control/panda/build/panda_test_mvt' returned '0': CMAKE_PREFIX_PATH=/home/kol/Documents/ros2/Control/panda/install/panda_description:/home/kol/Documents/ros2/Control/panda/install/panda_moveit_config:/opt/ros/humble /usr/bin/cmake --build /home/kol/Documents/ros2/Control/panda/build/panda_test_mvt -- -j4 -l4
+[0.975s] Invoking command in '/home/kol/Documents/ros2/Control/panda/build/panda_test_mvt': CMAKE_PREFIX_PATH=/home/kol/Documents/ros2/Control/panda/install/panda_description:/home/kol/Documents/ros2/Control/panda/install/panda_moveit_config:/opt/ros/humble /usr/bin/cmake --install /home/kol/Documents/ros2/Control/panda/build/panda_test_mvt
+[0.984s] -- Install configuration: ""
+[0.984s] -- Installing: /home/kol/Documents/ros2/Control/panda/install/panda_test_mvt/share/ament_index/resource_index/package_run_dependencies/panda_test_mvt
+[0.984s] -- Installing: /home/kol/Documents/ros2/Control/panda/install/panda_test_mvt/share/ament_index/resource_index/parent_prefix_path/panda_test_mvt
+[0.985s] -- Installing: /home/kol/Documents/ros2/Control/panda/install/panda_test_mvt/share/panda_test_mvt/environment/ament_prefix_path.sh
+[0.985s] -- Installing: /home/kol/Documents/ros2/Control/panda/install/panda_test_mvt/share/panda_test_mvt/environment/ament_prefix_path.dsv
+[0.985s] -- Installing: /home/kol/Documents/ros2/Control/panda/install/panda_test_mvt/share/panda_test_mvt/environment/path.sh
+[0.985s] -- Installing: /home/kol/Documents/ros2/Control/panda/install/panda_test_mvt/share/panda_test_mvt/environment/path.dsv
+[0.985s] -- Installing: /home/kol/Documents/ros2/Control/panda/install/panda_test_mvt/share/panda_test_mvt/local_setup.bash
+[0.986s] -- Installing: /home/kol/Documents/ros2/Control/panda/install/panda_test_mvt/share/panda_test_mvt/local_setup.sh
+[0.986s] -- Installing: /home/kol/Documents/ros2/Control/panda/install/panda_test_mvt/share/panda_test_mvt/local_setup.zsh
+[0.986s] -- Installing: /home/kol/Documents/ros2/Control/panda/install/panda_test_mvt/share/panda_test_mvt/local_setup.dsv
+[0.986s] -- Installing: /home/kol/Documents/ros2/Control/panda/install/panda_test_mvt/share/panda_test_mvt/package.dsv
+[0.986s] -- Installing: /home/kol/Documents/ros2/Control/panda/install/panda_test_mvt/share/ament_index/resource_index/packages/panda_test_mvt
+[0.987s] -- Installing: /home/kol/Documents/ros2/Control/panda/install/panda_test_mvt/share/panda_test_mvt/cmake/panda_test_mvtConfig.cmake
+[0.987s] -- Installing: /home/kol/Documents/ros2/Control/panda/install/panda_test_mvt/share/panda_test_mvt/cmake/panda_test_mvtConfig-version.cmake
+[0.987s] -- Installing: /home/kol/Documents/ros2/Control/panda/install/panda_test_mvt/share/panda_test_mvt/package.xml
+[0.987s] -- Installing: /home/kol/Documents/ros2/Control/panda/install/panda_test_mvt/share/panda_test_mvt/launch
+[0.987s] -- Installing: /home/kol/Documents/ros2/Control/panda/install/panda_test_mvt/share/panda_test_mvt/launch/rsp.launch.py
+[0.988s] -- Installing: /home/kol/Documents/ros2/Control/panda/install/panda_test_mvt/share/panda_test_mvt/launch/move_group.launch.py
+[0.988s] -- Installing: /home/kol/Documents/ros2/Control/panda/install/panda_test_mvt/share/panda_test_mvt/launch/spawn_controllers.launch.py
+[0.988s] -- Installing: /home/kol/Documents/ros2/Control/panda/install/panda_test_mvt/share/panda_test_mvt/launch/demo.launch.py
+[0.988s] -- Installing: /home/kol/Documents/ros2/Control/panda/install/panda_test_mvt/share/panda_test_mvt/launch/setup_assistant.launch.py
+[0.988s] -- Installing: /home/kol/Documents/ros2/Control/panda/install/panda_test_mvt/share/panda_test_mvt/launch/moveit_rviz.launch.py
+[0.989s] -- Installing: /home/kol/Documents/ros2/Control/panda/install/panda_test_mvt/share/panda_test_mvt/launch/static_virtual_joint_tfs.launch.py
+[0.989s] -- Installing: /home/kol/Documents/ros2/Control/panda/install/panda_test_mvt/share/panda_test_mvt/launch/warehouse_db.launch.py
+[0.989s] -- Installing: /home/kol/Documents/ros2/Control/panda/install/panda_test_mvt/share/panda_test_mvt/config
+[0.989s] -- Installing: /home/kol/Documents/ros2/Control/panda/install/panda_test_mvt/share/panda_test_mvt/config/moveit.rviz
+[0.989s] -- Installing: /home/kol/Documents/ros2/Control/panda/install/panda_test_mvt/share/panda_test_mvt/config/moveit_controllers.yaml
+[0.990s] -- Installing: /home/kol/Documents/ros2/Control/panda/install/panda_test_mvt/share/panda_test_mvt/config/ros2_controllers.yaml
+[0.990s] -- Installing: /home/kol/Documents/ros2/Control/panda/install/panda_test_mvt/share/panda_test_mvt/config/joint_limits.yaml
+[0.990s] -- Installing: /home/kol/Documents/ros2/Control/panda/install/panda_test_mvt/share/panda_test_mvt/config/panda.srdf
+[0.990s] -- Installing: /home/kol/Documents/ros2/Control/panda/install/panda_test_mvt/share/panda_test_mvt/config/kinematics.yaml
+[0.990s] -- Installing: /home/kol/Documents/ros2/Control/panda/install/panda_test_mvt/share/panda_test_mvt/config/panda.urdf.xacro
+[0.991s] -- Installing: /home/kol/Documents/ros2/Control/panda/install/panda_test_mvt/share/panda_test_mvt/config/initial_positions.yaml
+[0.992s] -- Installing: /home/kol/Documents/ros2/Control/panda/install/panda_test_mvt/share/panda_test_mvt/config/panda.ros2_control.xacro
+[0.992s] -- Installing: /home/kol/Documents/ros2/Control/panda/install/panda_test_mvt/share/panda_test_mvt/config/pilz_cartesian_limits.yaml
+[0.992s] -- Installing: /home/kol/Documents/ros2/Control/panda/install/panda_test_mvt/share/panda_test_mvt/.setup_assistant
+[0.997s] Invoked command in '/home/kol/Documents/ros2/Control/panda/build/panda_test_mvt' returned '0': CMAKE_PREFIX_PATH=/home/kol/Documents/ros2/Control/panda/install/panda_description:/home/kol/Documents/ros2/Control/panda/install/panda_moveit_config:/opt/ros/humble /usr/bin/cmake --install /home/kol/Documents/ros2/Control/panda/build/panda_test_mvt
