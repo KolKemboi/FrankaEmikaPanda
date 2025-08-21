@@ -53,10 +53,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/kol/Documents/ros2/Control/panda/src/panda_description
+CMAKE_SOURCE_DIR = /home/kol/Documents/panda/src/panda_description
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/kol/Documents/ros2/Control/panda/build/panda_description
+CMAKE_BINARY_DIR = /home/kol/Documents/panda/build/panda_description
 
 # Utility rule file for uninstall.
 
@@ -78,6 +78,6 @@ CMakeFiles/uninstall.dir/clean:
 .PHONY : CMakeFiles/uninstall.dir/clean
 
 CMakeFiles/uninstall.dir/depend:
-	cd /home/kol/Documents/ros2/Control/panda/build/panda_description && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/kol/Documents/ros2/Control/panda/src/panda_description /home/kol/Documents/ros2/Control/panda/src/panda_description /home/kol/Documents/ros2/Control/panda/build/panda_description /home/kol/Documents/ros2/Control/panda/build/panda_description /home/kol/Documents/ros2/Control/panda/build/panda_description/CMakeFiles/uninstall.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/kol/Documents/panda/build/panda_description && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/kol/Documents/panda/src/panda_description /home/kol/Documents/panda/src/panda_description /home/kol/Documents/panda/build/panda_description /home/kol/Documents/panda/build/panda_description /home/kol/Documents/panda/build/panda_description/CMakeFiles/uninstall.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/uninstall.dir/depend
 
