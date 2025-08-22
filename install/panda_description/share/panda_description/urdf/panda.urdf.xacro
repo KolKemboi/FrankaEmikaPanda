@@ -1,8 +1,0 @@
-<?xml version="1.0" ?>
-<robot name="panda" xmlns:xacro="http://www.ros.org/wiki/xacro">
-
-  <xacro:include filename="$(find panda_description)/urdf/panda_desc.urdf.xacro" />
-  <xacro:include filename="$(find panda_description)/urdf/panda.gazebo" />
-  <xacro:include filename="$(find panda_description)/urdf/ros2_control.xacro" />
-
-</robot>
