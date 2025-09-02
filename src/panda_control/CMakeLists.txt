@@ -11,18 +11,22 @@ find_package(moveit_ros_planning_interface REQUIRED)
 find_package(rclcpp REQUIRED)
 
 add_executable(panda_control src/panda_control.cpp)
+add_executable(obj_avoidance src/object_avoidance.cpp)
 
-target_include_directories(panda_control PUBLIC
-  $<BUILD_INTERFACE:${CMAKE_CURRENT_SOURCE_DIR}/include>
-  $<INSTALL_INTERFACE:include>)
-target_compile_features(panda_control PUBLIC c_std_99 cxx_std_17)  # Require C99 and C++17
+
 ament_target_dependencies(
   panda_control
   "moveit_ros_planning_interface"
   "rclcpp"
 )
+ament_target_dependencies(
+	obj_avoidance
+  "moveit_ros_planning_interface"
+  "rclcpp"
+)
 
 install(TARGETS panda_control
+obj_avoidance
   DESTINATION lib/${PROJECT_NAME})
 
 if(BUILD_TESTING)
